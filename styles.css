@@ -1,0 +1,15 @@
+.right{
+    background-color: rgb(37, 211, 170);
+}
+.left{
+    background-color: white;
+    margin: 5px;
+}
+body{
+    background-color: black;
+}
+.foto{
+justify-content: center;
+margin: 20px;
+
+}
